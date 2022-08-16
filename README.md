@@ -1,2 +1,2 @@
 # htb-starting-point
-A bunch of Cheat Sheet and writeups PDF for HTB starting point machines
+Hack The Box Starting Point Official Writeups
